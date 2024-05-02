@@ -51,14 +51,14 @@ SQLAlchemy
 
 ## Features ✅
 
-[ ] Create docker with databases and connections
-[ ] Create upload route (POST/doc)
-[ ] Create download route (GET/doc/:id)
-[ ] Create like route (POST/doc/like)
-[ ] Create ranking route (ws/docs/ranking)
-[ ] Create daily ranking route (GET/docs/ranking/daily)
-[ ] Create weekly ranking route (GET/docs/ranking/weekly)
-[ ] create weekly email sending feature
+ [ ] Create docker with databases and connections
+ [ ] Create upload route (POST/doc)
+ [ ] Create download route (GET/doc/:id)
+ [ ] Create like route (POST/doc/like)
+ [ ] Create ranking route (ws/docs/ranking)
+ [ ] Create daily ranking route (GET/docs/ranking/daily)
+ [ ] Create weekly ranking route (GET/docs/ranking/weekly)
+ [ ] create weekly email sending feature
 
 ## Running the Project 🏃
 
