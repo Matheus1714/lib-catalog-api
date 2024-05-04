@@ -1,0 +1,5 @@
+fastapi
+pymongo
+redis
+google-cloud-firestore
+SQLAlchemy
